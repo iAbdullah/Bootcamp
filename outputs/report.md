@@ -1,14 +1,14 @@
-# 📊 CSV Profiling Report
+#  CSV Profiling Report
 
 Generated: 2025-12-17T20:58:18
 
-## 📈 Summary
+## Summary
 
 - Rows: **4**
 - Columns: **4**
 
 
-## 📋 Columns Overview
+##  Columns Overview
 
 | Name | Type | Missing | Missing % | Unique |
 |:--- |:--- |:---:|:---:|:---:|

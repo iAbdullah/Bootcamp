@@ -15,7 +15,7 @@ def run_profiler(file_path: Path):
     
     write_markdown(report, MARKDOWN_OUTPUT_PATH, file_path.name)
     
-    print(f"✅ Success! Report generated for: {file_path}")
+    print(f" Success! Report generated for: {file_path}")
 
 if __name__ == "__main__":
     run_profiler(CSV_PATH)

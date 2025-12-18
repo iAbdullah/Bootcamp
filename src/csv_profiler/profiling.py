@@ -23,7 +23,6 @@ def infer_type(values: List[str]) -> str:
     return "number"
 
 def profile_rows(rows: List[Dict[str, str]]) -> Dict[str, Any]:
-    """هذه هي الدالة التي يبحث عنها الـ CLI"""
     if not rows:
         return {"n_rows": 0, "n_cols": 0, "columns": []}
         

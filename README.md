@@ -51,7 +51,8 @@ PowerShell
 streamlit run oop.py
 
 
-🛠 How to Use
+🛠 How to Use        
+
 Upload: Use the sidebar to upload your CSV file.
 
 Preview: View your raw data in the "Data Preview" section.

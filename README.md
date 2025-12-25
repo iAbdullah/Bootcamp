@@ -27,6 +27,18 @@ Environment Management: uv (Fast Python package installer)
 CLI Framework: Typer
 
 Web Framework: Streamlit
+![Python Version](https://img.shields.io/badge/Python-3.12+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Typer](https://img.shields.io/badge/CLI-Typer-informational)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![Made with Love](https://img.shields.io/badge/Made%20with-Python❤️-yellow)
+
+<!-- Optional Badges -->
+![Status](https://img.shields.io/badge/Status-Active-success)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO)
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
 
 Data Handling: Native csv & json modules, pathlib for file system management.  
 <img width="1919" height="908" alt="adaf45ab-a232-41ad-902b-a96cacd59aa2" src="https://github.com/user-attachments/assets/cfdd4545-e414-4f60-976f-a72cab7e49e1" />

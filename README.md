@@ -23,6 +23,8 @@ Exportable Reports: Generates professional summaries in both JSON and Markdown f
 Language: Python 3.12+
 
 Environment Management: uv (Fast Python package installer)
+<img width="1919" height="908" alt="adaf45ab-a232-41ad-902b-a96cacd59aa2" src="https://github.com/user-attachments/assets/40e3b5bc-997d-4919-ab7b-26559bf60446" />
+
 
 CLI Framework: Typer
 

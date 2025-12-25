@@ -33,22 +33,27 @@ To run this project on your local machine, follow these simple steps in your Pow
 To run this project on your local machine, follow these simple steps in your PowerShell:
 
 1. Clone the Repository
-PowerShell
+
 
 `git clone https://github.com/iAbdullah/Bootcamp.git`
-cd Bootcamp/csv-profiler
+
+
+`cd Bootcamp/csv-profiler`
+
+
 2. Install Requirements
 Make sure you have Python installed, then install the necessary library:
 
-PowerShell
 
-pip install streamlit
+`pip install streamlit`
+
+
 3. Run the App
+   
 Start the application using the following command:
 
-PowerShell
 
-streamlit run oop.py
+`streamlit run oop.py`
 
 
 🛠 How to Use        

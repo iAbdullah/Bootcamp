@@ -26,6 +26,40 @@ Environment Management: uv (Fast Python package installer)
 
 CLI Framework: Typer
 
+🚀 Getting Started
+To run this project on your local machine, follow these simple steps in your PowerShell:
+
+🚀 Getting Started
+To run this project on your local machine, follow these simple steps in your PowerShell:
+
+1. Clone the Repository
+PowerShell
+
+git clone https://github.com/iAbdullah/Bootcamp.git
+cd Bootcamp/csv-profiler
+2. Install Requirements
+Make sure you have Python installed, then install the necessary library:
+
+PowerShell
+
+pip install streamlit
+3. Run the App
+Start the application using the following command:
+
+PowerShell
+
+streamlit run oop.py
+
+
+🛠 How to Use
+Upload: Use the sidebar to upload your CSV file.
+
+Preview: View your raw data in the "Data Preview" section.
+
+Analyze: Click the "Generate Report" button.
+
+Export: Download your final report as a Markdown or JSO
+
 Web Framework: Streamlit
 ![Python Version](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)

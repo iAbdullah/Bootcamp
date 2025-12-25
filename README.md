@@ -35,7 +35,7 @@ To run this project on your local machine, follow these simple steps in your Pow
 1. Clone the Repository
 PowerShell
 
-git clone https://github.com/iAbdullah/Bootcamp.git
+`git clone https://github.com/iAbdullah/Bootcamp.git`
 cd Bootcamp/csv-profiler
 2. Install Requirements
 Make sure you have Python installed, then install the necessary library:
